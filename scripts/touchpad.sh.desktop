@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=touchpad
+Name=touchpad
+Comment[en_US]=
+Comment=
+Exec=/home/

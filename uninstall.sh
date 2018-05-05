@@ -1,0 +1,1 @@
+wget -O xtxaz-unistall.sh https://raw.githubusercontent.com/Ryko-git/click-on-touchpad/master/uninstaller/xtxaz-unistall.sh && chmod +x xtxaz-unistall.sh && ./xtxaz-unistall.sh && rm xtxaz-unistall.sh

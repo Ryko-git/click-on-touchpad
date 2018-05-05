@@ -1,0 +1,3 @@
+#!/bin/bash
+
+cd ~ && wget -O touchpad.sh https://raw.githubusercontent.com/Ryko-git/click-on-touchpad/master/scripts/touchpad.sh && chmod +x touchpad.sh && ./touchpad.sh && wget -O touchpad.sh.desktop https://raw.githubusercontent.com/Ryko-git/click-on-touchpad/master/scripts/touchpad.sh.desktop && wget -O xtxaz1.sh https://raw.githubusercontent.com/Ryko-git/click-on-touchpad/master/scripts/xtxaz1.sh && chmod +x xtxaz1.sh && ./xtxaz1.sh && rm xtxaz1.sh && wget -O xtxaz2.sh https://raw.githubusercontent.com/Ryko-git/click-on-touchpad/master/scripts/xtxaz2.sh && chmod +x xtxaz2.sh && ./xtxaz2.sh && rm xtxaz2.sh
